@@ -6,3 +6,6 @@ Worked with Trevor Smith on this lab. The files pertaining to the lab should be 
 
 Lab 2:
 The lab files should be in LabReports/Lab2.
+
+Lab 3:
+The lab files should be in LabReports/Lab3. I worked with Matt Asaro on this lab.
