@@ -9,3 +9,6 @@ The lab files should be in LabReports/Lab2.
 
 Lab 3:
 The lab files should be in LabReports/Lab3. I worked with Matt Asaro on this lab.
+
+Lab 4:
+The lab files should be in LabReports/Lab4. "workingDir" can be ignored.
