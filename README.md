@@ -15,3 +15,6 @@ The lab files should be in LabReports/Lab4. "workingDir" can be ignored.
 
 Lab 5:
 Worked with James Lee on this lab. The files should be in his respository at https://github.com/batmanatucsd/quadcopter.git
+
+Lab 6:
+I worked with the same person as on lab 5.
